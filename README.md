@@ -1,3 +1,3 @@
  ## 👋  Hi, I’m @TheLevic
-### 👀 I’m interested in Computer Science, Mathematics, and Cyber security.
+### 👀 I’m interested in computer science, mathematics, and cyber security
 
