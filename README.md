@@ -12,7 +12,7 @@
 ## 🧑‍💻 Experience With:
 - ⚙️ **Languages:** C++, Golang, Python3, Typescript
 - 🖥️ **Platforms:** Linux, Docker, Kubernetes
-- 🌐 **Frontend Frameworks:** Next.js
+- 🌐 **Frontend:** Next.js, tailwind, typescript, html
 
 ---
 
