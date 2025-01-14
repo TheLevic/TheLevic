@@ -10,7 +10,7 @@
 - 🧠 Grinding **LeetCode** — because problem-solving is life.
 
 ## 🧑‍💻 Experience With:
-- ⚙️ **Languages:** C++, Golang, Python3, Typescript
+- ⚙️ **Languages:** C++, Golang, Python3, Typescript, Java
 - 🖥️ **Platforms:** Linux, Docker, Kubernetes
 - 🌐 **Frontend:** Next.js, tailwind, typescript, html
 
