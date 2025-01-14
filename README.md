@@ -6,7 +6,7 @@
 - 🌟 Mastering **Golang** and leveling up my skills.
 
 ## 🛠️ Side Projects:
-- 📚 [Streambook.io](#) — building something awesome!
+- 📚 [Streambook.io](www.streambook.io) — building something awesome!
 - 🧠 Grinding **LeetCode** — because problem-solving is life.
 
 ## 🧑‍💻 Experience With:
