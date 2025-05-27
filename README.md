@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @TheLevic!
 
-🎖️ I'm a computer scientist for the Department of Defense, with a passion for **backend development** and **embedded systems**.
+🎖️ I'm a computer scientist for the Department of Defense, with a passion for **backend development**
 
 ## 🚀 Currently Exploring:
-- 🌟 Mastering **Golang** and leveling up my skills.
+- 🌟 Mastering **Java** and **NextJS**
 
 ## 🛠️ Side Projects:
 - 📚 [Streambook.io](https://www.streambook.io/) — building something awesome!
