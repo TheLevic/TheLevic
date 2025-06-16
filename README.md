@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @TheLevic!
+# 👋 Hi, I’m Levi!
 
-🎖️ I'm a computer scientist for the Department of Defense, with a passion for **backend development**
+🎖️ I'm a computer scientist for the 76th Software Engineering Group, with a passion for **backend development**
 
 ## 🚀 Currently Exploring:
 - 🌟 Mastering **Java** and **NextJS**
