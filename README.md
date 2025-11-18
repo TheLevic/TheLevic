@@ -7,10 +7,10 @@
 
 ## 🛠️ Side Projects:
 - 📚 [Streambook.io](https://www.streambook.io/) — building something awesome!
-- 🧠 Grinding **LeetCode** — because problem-solving is life.
+- 🧠 Grinding **LeetCode** 
 
 ## 🧑‍💻 Experience With:
-- ⚙️ **Languages:** C++, Golang, Python3, Typescript, Java
+- ⚙️ **Languages:**  Java, Python3, C++, Golang, Typescript
 - 🖥️ **Platforms:** Linux, Docker, Kubernetes
 - 🌐 **Frontend:** Next.js, tailwind, typescript, html
 
