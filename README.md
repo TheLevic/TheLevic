@@ -1,20 +1,18 @@
-# 👋 Hi, I’m Levi!
+👋 Hi, I’m Levi
 
-🎖️ I'm a computer scientist for the 76th Software Engineering Group, with a passion for **backend development**
+Backend-focused software engineer with a strong interest in scalable systems and clean architecture.
 
-## 🚀 Currently Exploring:
-- 🌟 Mastering **Java** and **NextJS**
+🚀 What I’m working on
+- Building **Streambook** — a multi-tenant SaaS reservation platform
+- Deepening expertise in **Java**, **Python**, and **Next.js**
+- Practicing data structures & algorithms (LeetCode)
 
-## 🛠️ Side Projects:
-- 📚 [Streambook.io](https://www.streambook.io/) — building something awesome!
-- 🧠 Grinding **LeetCode** 
+🛠️ Tech I use
+- **Languages:** Java, Python, Go, C++, TypeScript
+- **Backend:** Django, REST APIs, Auth0, Stripe
+- **Infra:** Linux, Docker, Kubernetes, CI/CD
+- **Frontend:** Next.js, Tailwind CSS
 
-## 🧑‍💻 Experience With:
-- ⚙️ **Languages:**  Java, Python3, C++, Golang, Typescript
-- 🖥️ **Platforms:** Linux, Docker, Kubernetes
-- 🌐 **Frontend:** Next.js, tailwind, typescript, html
-
----
-
-📫 Let’s connect and collaborate on cool projects! 💻  
-🐦 Find me on Twitter: [@TheRealLevic](https://twitter.com/TheRealLevic)
+🔗 Links
+- 🌐 https://www.streambook.io
+- 🐦 https://twitter.com/TheRealLevic
